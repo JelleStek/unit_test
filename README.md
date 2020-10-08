@@ -1,4 +1,4 @@
-# unit_test2
+# unit_testing
 
 A new Flutter application.
 
